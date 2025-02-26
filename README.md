@@ -1,7 +1,7 @@
 # 🏴‍☠️ My Profile
 
 ## 👨‍💻 About Me
-I'm a **developer, data science student, and D&D enthusiast**. Passionate about technology, creative storytelling, and the mysteries of the universe. Always exploring new knowledge and creating cool projects.  
+I'm a **developer, data science student, and D&D enthusiast**. 
 
 ## 🌍 Interests
 - **Programming:** Full-stack development 
