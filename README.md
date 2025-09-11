@@ -13,5 +13,6 @@ I'm a **developer, data science student, and D&D enthusiast**.
 
 ## 🔗 Connect with Me
 - **📬 Discord:** *mrskeletdance*
+- **💻 Matrix:** *@ennocevl:matrix.org*
 
 🚀 Always open to new projects, discussions, and adventures!
