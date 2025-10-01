@@ -1,7 +1,9 @@
 # 🏴‍☠️ My Profile
 
-## 👨‍💻 About Me
+## About Me
 I'm a **developer, data science student, and D&D enthusiast**. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alikhan-Amandinov)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌍 Interests
 - **Programming:** Full-stack development 
