@@ -7,7 +7,7 @@ I'm a **developer, data science student, and D&D enthusiast**.
 
 ## 🌍 Interests
 - **Programming:** Full-stack development 
-- **Science:** Astronomy, physics, and data science  
+- **Science:** data science  
 - **My fav fantasy worlds:** D&D, Darkest Dungeon, Fear and Hunger
 
 ## 📌 Projects
